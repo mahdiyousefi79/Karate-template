@@ -1,4 +1,4 @@
-package examples;
+package features;
 
 import com.intuit.karate.Results;
 import com.intuit.karate.Runner;
